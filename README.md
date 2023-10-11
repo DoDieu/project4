@@ -1,5 +1,6 @@
 <include a CircleCI status badge, here>
-[![<DoDieu>](https://circleci.com/gh/<DoDieu>/project4.svg?style=svg)](https://circleci.com/gh/<DoDieu>/project4)
+
+[![DoDieu](https://circleci.com/gh/DoDieu/project4.svg?style=svg)](https://circleci.com/gh/<DoDieu>/project4)
 
 ## Project Overview
 
