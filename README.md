@@ -1,9 +1,6 @@
 <include a CircleCI status badge, here>
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
-
-
-
+[![CircleCI](https://app.circleci.com/pipelines/github/DoDieu/project4.svg?style=svg)](https://app.circleci.com/pipelines/github/DoDieu/project4)
 
 ## Project Overview
 
